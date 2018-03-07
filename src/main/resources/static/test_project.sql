@@ -1,0 +1,1 @@
+INSERT INTO test.project (user_id, name) VALUES (1, 'pierwszy projekt');

@@ -1,0 +1,1 @@
+INSERT INTO test.drawing (drawing_url, name, project_id, rotated, rotation) VALUES ('1', 'rysunek', 1, false, null);
